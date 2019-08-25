@@ -8,17 +8,21 @@
 All software dependencies and operating systems: Matlab on Windows
 
 Versions the software has been tested on : Matlab R2014b on 64-bit
+
 Any required non-standard hardware : None
 
 4. Installation guide
 
 Instructions:Open Matlab and run the file
+
 Typical install time on a "normal" desktop computer: The code does not take time to install
 
 5. Demo
 
 Instructions to run on data: No data file required. Inputs are given in the code.
+
 Expected output: Plots and values of various parameters of the Rh6G-PEO system  (see SI section S3.2 )
+
 Expected run time for demo on a "normal" desktop computer: <1 minute
 
 6. Instructions for use
