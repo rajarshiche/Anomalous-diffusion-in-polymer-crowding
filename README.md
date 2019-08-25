@@ -27,5 +27,5 @@ Expected run time for demo on a "normal" desktop computer: <1 minute
 
 6. Instructions for use
 
-How to run the software on your data: Change input parameters in 1st three sections of the code (refer to SI section S3.2 for details of parameters and algorithm)
+How to run the software on your data: Change input parameters in 1st three sections of the code (refer to SI section S3.2 for details of parameters and algorithm). If more experimental diffusivity data is required to be plotted, please add the new molecular weight in line 27, adjust "i" according to the molecular weight (in lines 61/73/84), and finally, add the data in lines 113 & 114 to incorporate into the existing plot.  
 
